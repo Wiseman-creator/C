@@ -59,3 +59,7 @@ int main(void)
 /*  Multi line comments
     first.c ---. c compiler(*gcc) ---> first.exe    */
 // char - 1 , int - 2, float - 4, double - 8 byte
+
+// sizeof - used to find how much memory a type/variable occupies.
+
+// printf("%zu", sizeof(int));
